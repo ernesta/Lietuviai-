@@ -1,4 +1,4 @@
-# Lietuviai+
+# Lietuviai-
 
 Once upon a time Google launched a social network. The accounts on what happened next may vary, but the truth is that some people used it heavily, even making it the main social network to spend time in. As with any social network, status on Google+ is important, and in this case, it is primarily determined by your follower count.
 
@@ -29,6 +29,6 @@ On the backend site, we could not have lived without [the library for interactin
 + [@Aurimas](http://twitter.com/aurimas)
 
 ## Screenshots
-![@#Lietuviai+](images/screenshots/main-view.png)
-![@#Lietuviai+](images/screenshots/widget.png)
-![@#Lietuviai+](images/screenshots/404.png)
+![@#Lietuviai-](images/screenshots/main-view.png)
+![@#Lietuviai-](images/screenshots/widget.png)
+![@#Lietuviai-](images/screenshots/404.png)
